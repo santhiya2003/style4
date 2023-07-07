@@ -1,0 +1,21 @@
+body{
+    
+    background-repeat: no-repeat;
+    background-color: seagreen;
+    margin:30px;
+}
+.forms{
+    border: 3px solid mediumturquoise;
+    background-color: #17A6DB;
+    padding: 50px;
+    padding-right: 30px;
+    margin:70px;
+    
+}
+
+input[type="submit"]{
+    background-color: green;
+    cursor: pointer;
+    padding-right: 10px;
+    
+}
